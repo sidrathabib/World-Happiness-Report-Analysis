@@ -6,6 +6,10 @@ This project explores the World Happiness Report dataset to identify key factors
 
 ---
 
+## Start viewing!
+[View my notebook here](world_happiness_analysis.ipynb)
+
+
 ## Objectives
 
 * Identify the happiest countries in the world

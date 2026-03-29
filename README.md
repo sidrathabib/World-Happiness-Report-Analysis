@@ -58,22 +58,6 @@ This project explores the World Happiness Report dataset to identify key factors
 
 ---
 
-## Project Structure
-
-global-happiness-data-analysis/
-│
-├── data/
-│   └── 2019.csv
-│
-├── notebooks/
-│   └── global_happiness_analysis.ipynb
-│
-├── visuals/
-│
-└── README.md
-
----
-
 ## Future Improvements
 
 * Add multi-year analysis to track changes over time
